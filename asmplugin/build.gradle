@@ -36,7 +36,7 @@ uploadArchives {
             //    authentication(userName: "admin", password: "admin")
             // }
             //本地的Maven地址设置为D:/repos
-            repository(url: uri('/Users/yuejz/workspace/ASMDemo'))
+            repository(url: uri('../repo'))
         }
     }
 }
