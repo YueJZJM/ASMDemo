@@ -28,4 +28,5 @@ public class TraceUtil {
                 , activity.getClass().getName() + "call onDestroy"
                 , Toast.LENGTH_LONG).show();
     }
+
 }
